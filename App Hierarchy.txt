@@ -1,0 +1,11 @@
+                           APP
+   |                        |                       |
+CharacterContainer   HouseContainer           NewCharacterForm
+   |                        |
+CharacterCard             House
+   |                        |
+ToggleHouseForm        CharacterDetails
+   |                        |
+UpdateForm             ToggleHouseForm
+                            |
+                        UpdateForm  <----- Needs houses and houseHandler

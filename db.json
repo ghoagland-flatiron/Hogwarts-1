@@ -55,5 +55,10 @@
       "image2": "https://imgix.bustle.com/rehost/2016/9/13/4685a819-e442-4e36-af5b-9c8c42bfbf00.jpg?w=970&h=582&fit=crop&crop=faces&auto=format&q=70"
     }
   ],
-  "houses": ["Gryffindor", "Slytherin", "HufflePuff", "Ravenclaw"]
+  "houses": [
+    "Gryffindor",
+    "Slytherin",
+    "HufflePuff",
+    "Ravenclaw"
+  ]
 }
