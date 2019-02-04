@@ -5,7 +5,7 @@ class NewCharacterForm extends Component {
   state = {
     name: "",
     age: 0,
-    house: "",
+    house: "Gryffindor",
     role: '',
     image1: '',
     image2: ''
@@ -63,7 +63,7 @@ class NewCharacterForm extends Component {
         <select name="house" onChange={this.handleChange} >
           { houseOptions }
         </select>
-        
+
         <button type="submit">Create Character</button>
       </form>
     )
